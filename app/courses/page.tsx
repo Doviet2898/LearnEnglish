@@ -7,17 +7,17 @@ export default function Courses() {
     const courses = [
         {
             id: 1,
-            title: "Khoá học IELTS từ con số 0",
+            title: "Nghe bai hat Noi gio len",
             description: "A comprehensive course designed to take you from beginner to IELTS proficiency.",
         },
         {
             id: 2,
-            title: "Advanced JavaScript Techniques",
+            title: "Nghe bai hat Chay khoi the gioi nay",
             description: "Deep dive into modern JavaScript features and best practices.",
         },
         {
             id: 3,
-            title: "React for Beginners",
+            title: "Nghe bai hat Apollo",
             description: "Learn the fundamentals of React and build interactive UIs.",
         },
         {
